@@ -56,6 +56,7 @@ const addData = (e) => {
 
     const { add1, add2, city, state, zip } = newinpval
 
+    
     if (add1 === ""){
         alert("Address street field is required")
     }else if (add2 === ""){
