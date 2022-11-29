@@ -1,6 +1,15 @@
 .App {
   text-align: center;
 }
+.j{
+  text-align: left;
+}
+.k{
+  background-color: rgb(44, 77, 144);
+}
+.m{
+  color: rgba(50, 119, 203, 0.831);
+}
 
 .App-logo {
   height: 40vmin;
